@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Google Analytics" width="45px" src="https://img.stackshare.io/service/64/cU74ahCn_400x400.jpg" />
 <img align="left" alt="Font Awesome" width="45px" src="https://img.stackshare.io/service/3244/1_Mr1Fy00XjPGNf1Kkp_hWtw_2x.png" />
 <img align="left" alt="Git" width="45px"  src="https://www.flaticon.com/svg/vstatic/svg/39/39378.svg?token=exp=1612723181~hmac=670e7d83ef3b044927815bddcd5abefa" />
-<img align="left" alt="Github" width="45px" margin-top="10px" src="https://img2.freepng.es/20180525/wly/kisspng-github-inc-repository-source-code-5b087b87887e66.2320125615272825675591.jpg" />
+<img align="left" alt="Github" width="45px" margin-top="10px" src="https://www.muylinux.com/wp-content/uploads/2017/06/github.png" />
 <img align="left" alt="Liquid" width="45px" src="https://3thlkd3wpu0u1x0qbt19cxc8-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/Shopify-Liquid-ProgLang.png" />
 <br/>
 <br/>
