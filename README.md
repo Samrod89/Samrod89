@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Sandra Rodríguez
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on great proyects
 - 📫 How to reach me 
 - sam.rodriguezr.89@gmail.com
-- Phone number: +573203779042
+
 
 
 
