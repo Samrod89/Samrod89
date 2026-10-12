@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 💞️ I’m looking to collaborate on great proyects
 - 📫 How to reach me 
-- sam.rodriguezr.89@gmail.com
+- rdnsandra.rod@gmail.com
 
 
 
